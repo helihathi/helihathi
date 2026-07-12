@@ -1,146 +1,209 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460,1a1a2e&height=200&section=header&text=Heli%20Hathi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Tech%20Data%20Science%20%7C%20AI%20%2F%20ML%20%7C%20Computer%20Vision&descAlignY=55&descSize=18&descColor=94a3b8#gh-dark-mode-only" alt="Header Dark"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6,93c5fd&height=200&section=header&text=Heli%20Hathi&fontSize=50&fontColor=1e3a5f&animation=fadeIn&fontAlignY=38&desc=M.Tech%20Data%20Science%20%7C%20AI%20%2F%20ML%20%7C%20Computer%20Vision&descAlignY=55&descSize=18&descColor=1e40af#gh-light-mode-only" alt="Header Light"/>
+<!-- ══════════════════════════════════════════════════════════════════
+     HEADER — <picture> works in both editor preview AND live profile
+     Dark:  navy→indigo  |  Light: sky-blue gradient
+     NOTE: %2C is used instead of comma inside srcset to avoid the
+     browser treating comma-separated icon names as multiple candidates
+══════════════════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1e3a8a,100:1e40af&height=230&section=header&text=Heli%20Hathi&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=M.Tech%20Data%20Science%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Computer%20Vision&descAlignY=61&descSize=20&descColor=bfdbfe"/>
+  <img alt="Header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:93c5fd&height=230&section=header&text=Heli%20Hathi&fontSize=64&fontColor=1e3a5f&animation=fadeIn&fontAlignY=40&desc=M.Tech%20Data%20Science%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Computer%20Vision&descAlignY=61&descSize=20&descColor=1d4ed8"/>
+</picture>
 
-<div align="center">
+<!-- Single neutral badge — no need for dark/light split here -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=helihathi&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=helihathi&label=Profile+Views&color=3b82f6&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heli-hathi-8bb9822a8/)
+<!-- ══════════════════ TYPING SVG ══════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=58a6ff&center=true&vCenter=true&width=660&height=48&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;M.Tech+Data+Science+Student+%F0%9F%8E%93;Computer+Vision+%26+Deep+Learning+%F0%9F%94%AE;Open+to+AI+%26+ML+Internships+%F0%9F%9A%80;Let%27s+Build+Something+Amazing!+%E2%9C%A8"/>
+    <img alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=1d4ed8&center=true&vCenter=true&width=660&height=48&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;M.Tech+Data+Science+Student+%F0%9F%8E%93;Computer+Vision+%26+Deep+Learning+%F0%9F%94%AE;Open+to+AI+%26+ML+Internships+%F0%9F%9A%80;Let%27s+Build+Something+Amazing!+%E2%9C%A8"/>
+  </picture>
+</p>
 
-</div>
+<br/>
 
----
+<!-- ══════════════════ ABOUT ME ══════════════════ -->
 
-## 👩‍💻 About Me
+<img align="right" width="340"
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=60A5FA&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=AI+%26+ML+Engineer+in+Progress...;Building+Solutions+that+Actually+Matter;Python+%7C+PyTorch+%7C+Computer+Vision;Exploring+Deep+Learning+%26+Cloud#gh-dark-mode-only" alt="Typing SVG Dark"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1d4ed8&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=AI+%26+ML+Engineer+in+Progress...;Building+Solutions+that+Actually+Matter;Python+%7C+PyTorch+%7C+Computer+Vision;Exploring+Deep+Learning+%26+Cloud#gh-light-mode-only" alt="Typing SVG Light"/>
+### 👋 Hi there, I'm **Heli Hathi**
 
-🎓 Pursuing **M.Tech in Data Science**, passionate about building AI-powered solutions for real-world problems.  
-💡 Interested in **AI, Machine Learning, Computer Vision, and Predictive Analytics.**  
-🌱 Currently diving deeper into **Deep Learning, AWS, and Google Cloud Platform.**  
-💹 Working on **Portfolio Optimization using Machine Learning.**
+🎓 Pursuing **M.Tech in Data Science**, passionate about solving real-world problems with AI  
+🤖 Deeply interested in **Computer Vision, Deep Learning, and Predictive Analytics**  
+☁️ Exploring **Cloud Platforms (AWS & GCP)** and scalable AI deployment  
+💹 Working on **Portfolio Optimization using Machine Learning**  
+💼 Actively seeking **Remote AI/ML & Data Science Internships**  
+⚡ I believe the best way to learn is by **building things that matter**
 
----
+<br clear="right"/>
+
+<br/>
+
+<!-- ══════════════════ CURRENTLY WORKING ON ══════════════════ -->
 
 ## 🚀 Currently Working On
 
 | Area | Focus |
 |------|-------|
-| 🤖 Artificial Intelligence | End-to-end AI pipelines |
-| 📊 Machine Learning | Predictive & classification models |
-| 👁️ Computer Vision | Object detection & image analysis |
-| 💹 Portfolio Optimization | ML-driven financial modelling |
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark#gh-dark-mode-only" alt="Languages Dark"/>
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=light#gh-light-mode-only" alt="Languages Light"/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark#gh-dark-mode-only" alt="AI ML Dark"/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light#gh-light-mode-only" alt="AI ML Light"/>
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark#gh-dark-mode-only" alt="Cloud Dark"/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=light#gh-light-mode-only" alt="Cloud Light"/>
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,git,github&theme=dark#gh-dark-mode-only" alt="Tools Dark"/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,git,github&theme=light#gh-light-mode-only" alt="Tools Light"/>
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats Dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub Stats Light"/>
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=helihathi&theme=github-dark-blue&hide_border=true#gh-dark-mode-only" alt="Streak Dark"/>
-<img height="170" src="https://streak-stats.demolab.com?user=helihathi&theme=default&hide_border=true#gh-light-mode-only" alt="Streak Light"/>
+| 🤖 **Artificial Intelligence** | Building intelligent pipelines and agents |
+| 📊 **Machine Learning Models** | Regression, classification, time-series forecasting |
+| 👁️ **Computer Vision** | Object detection, segmentation, medical imaging |
+| 📈 **Predictive Analytics** | Feature engineering & model interpretability |
+| 💹 **Portfolio Optimization** | ML-driven financial modelling |
 
 <br/>
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook#gh-dark-mode-only" alt="Top Langs Dark"/>
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook#gh-light-mode-only" alt="Top Langs Light"/>
+<!-- ══════════════════ TECH STACK ══════════════════
+     CRITICAL FIX: commas in the ?i= param replaced with %2C
+     so the srcset parser doesn't treat each icon name as a
+     separate image candidate.
+══════════════════════════════════════════════════════ -->
 
-</div>
+## 💻 Tech Stack
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cjupyter%2Caws%2Cgcp%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=9"/>
+    <img alt="Tech Stack"
+      src="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cjupyter%2Caws%2Cgcp%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=9&theme=light"/>
+  </picture>
+</p>
+
+<p align="center">
+  <sub>NumPy &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; SciPy &nbsp;·&nbsp; Matplotlib &nbsp;·&nbsp; Plotly &nbsp;·&nbsp; Seaborn &nbsp;·&nbsp; Streamlit</sub>
+</p>
+
+<br/>
+
+<!-- ══════════════════ GITHUB STATISTICS ══════════════════
+     Two <picture> elements side-by-side inside <p align="center">.
+     <picture> is inline like <img>, so they sit next to each other.
+     URLs simplified — removed extra params that can cause errors
+     on accounts with low activity.
+══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+    <img height="165" alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1d4ed8&icon_color=1d4ed8&text_color=374151"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=helihathi&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=7c9cbf&dates=6e7681"/>
+    <img height="165" alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=helihathi&hide_border=true&background=ffffff&stroke=bfdbfe&ring=1d4ed8&fire=1d4ed8&currStreakNum=374151&sideNums=374151&currStreakLabel=1d4ed8&sideLabels=1d4ed8&dates=6b7280"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook&langs_count=8"/>
+    <img height="150" alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&hide_border=true&bg_color=ffffff&title_color=1d4ed8&text_color=374151&hide=jupyter%20notebook&langs_count=8"/>
+  </picture>
+</p>
+
+<br/>
+
+<!-- ══════════════════ TROPHIES ══════════════════ -->
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=helihathi&theme=algolia&no-frame=true&margin-w=10&column=6"/>
+    <img alt="Trophies"
+      src="https://github-profile-trophy.vercel.app/?username=helihathi&theme=flat&no-frame=true&margin-w=10&column=6"/>
+  </picture>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=helihathi&theme=algolia&no-frame=true&margin-w=10&row=1#gh-dark-mode-only" alt="Trophies Dark"/>
-<img src="https://github-profile-trophy.vercel.app/?username=helihathi&theme=flat&no-frame=true&margin-w=10&row=1#gh-light-mode-only" alt="Trophies Light"/>
+<br/>
 
-</div>
+<!-- ══════════════════ CONTRIBUTION GRAPH ══════════════════ -->
 
----
+## 📈 Contribution Activity
 
-## 📈 Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=helihathi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3358&hide_border=true"/>
+    <img alt="Contribution Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=helihathi&bg_color=ffffff&color=1d4ed8&line=3b82f6&point=1d4ed8&area=true&area_color=dbeafe&hide_border=true"/>
+  </picture>
+</p>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=helihathi&theme=github-compact&hide_border=true&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff#gh-dark-mode-only" alt="Contribution Graph Dark"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=helihathi&theme=minimal&hide_border=true#gh-light-mode-only" alt="Contribution Graph Light"/>
+<!-- ══════════════════ OPEN TO COLLABORATE ══════════════════ -->
 
-</div>
+## 🤝 Open To Collaborate & Opportunities
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-AI%20%26%20ML-3b82f6?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source AI/ML"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Projects-6366f1?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science Projects"/>
+  <img src="https://img.shields.io/badge/Computer-Vision-0ea5e9?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/AI-Research-8b5cf6?style=for-the-badge&logo=researchgate&logoColor=white" alt="AI Research"/>
+</p>
 
-## 💼 Open To
+<p align="center">
+  <img src="https://img.shields.io/badge/Remote%20SW%20Dev-Internship-22c55e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Remote SW Dev Internship"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Internship-f59e0b?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML Internship"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Internship-ec4899?style=for-the-badge&logo=kaggle&logoColor=white" alt="Data Science Internship"/>
+</p>
 
-<div align="center">
+<br/>
 
-![Remote Software Dev Internship](https://img.shields.io/badge/Remote%20Software%20Dev%20Internship-3b82f6?style=flat-square&logoColor=white)
-![AI/ML Internship](https://img.shields.io/badge/AI%2FML%20Internship-8b5cf6?style=flat-square&logoColor=white)
-![Data Science Internship](https://img.shields.io/badge/Data%20Science%20Internship-06b6d4?style=flat-square&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering%20Roles-10b981?style=flat-square&logoColor=white)
+<!-- ══════════════════ DEV QUOTE ══════════════════ -->
 
-</div>
+## ✍️ Dev Quote of the Day
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+    <img alt="Dev Quote"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  </picture>
+</p>
 
-## 🤝 Looking to Collaborate On
+<br/>
 
-- 🔬 Open Source AI/ML Projects
-- 📊 Data Science Research
-- 👁️ Computer Vision Applications
-- 🤖 AI Research Initiatives
+<!-- ══════════════════ CONNECT ══════════════════ -->
 
----
+## 🌐 Connect With Me
 
-## ✍️ Random Dev Quote
+<p align="center">
+  <a href="https://www.linkedin.com/in/heli-hathi-8bb9822a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Heli%20Hathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/helihathi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-helihathi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<div align="center">
+<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight#gh-dark-mode-only" alt="Dev Quote Dark"/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only" alt="Dev Quote Light"/>
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=90caf9&fontAlignY=65&animation=fadeIn"/>
+  <img alt="Footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:bfdbfe,100:dbeafe&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=1e3a5f&fontAlignY=65&animation=fadeIn"/>
+</picture>
 
-</div>
-
----
-
-> *"The best way to learn is by building projects that solve real-world problems."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460,1a1a2e&height=120&section=footer#gh-dark-mode-only" alt="Footer Dark"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6,93c5fd&height=120&section=footer#gh-light-mode-only" alt="Footer Light"/>
+2-2 times coming. repetitive, graphs not coming. fix that. do not change style or image or anything. also standardize icons either rectangle or square. properly style it
