@@ -101,7 +101,7 @@
     <circle cx="30" cy="30" r="6" fill="#EF4444"/>
     <circle cx="50" cy="30" r="6" fill="#F59E0B"/>
     <circle cx="70" cy="30" r="6" fill="#10B981"/>
-    <text x="95" y="34" class="text-sub" font-size="13">helihathi — -zsh — 80x24</text>
+    <text x="95" y="34" class="text-sub" font-size="13">helihathi</text>
     <line x1="0" y1="55" x2="670" y2="55" stroke="rgba(15,23,42,0.06)" stroke-width="1"/>
 
     <text x="40" y="110" class="text-sub" font-size="20">Hi there, I'm</text>
@@ -132,7 +132,7 @@
     </g>
 
     <!-- Glowing Tech Stack Pills -->
-    <g transform="translate(40, 385)">
+    <g transform="translate(40, 425)">
       <text x="0" y="-15" class="text-sub" font-size="13" letter-spacing="1">TECHNICAL ARSENAL</text>
       
       <!-- Row 1 -->
@@ -174,11 +174,5 @@
     </g>
 
     <!-- Social Status Indicator -->
-    <g transform="translate(480, 500)">
-      <circle cx="10" cy="10" r="5" fill="#10B981" filter="url(#pill-glow)">
-        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="25" y="14" class="text-sub" font-size="13">Available for Hire</text>
-    </g>
   </g>
 </svg>
