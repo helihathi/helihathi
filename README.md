@@ -14,6 +14,16 @@
 
 <br/>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=58a6ff&center=true&vCenter=true&width=660&height=48&lines=Turning+Data+into+Intelligent+Action+%F0%9F%A7%A0;Specializing+in+Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Building+Predictive+ML+%26+Financial+Models+%F0%9F%93%88;M.Tech+Data+Science+Student+%F0%9F%8E%93;Open+for+Remote+AI%2FML+Internships+%F0%9F%9A%80">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=1d4ed8&center=true&vCenter=true&width=660&height=48&lines=Turning+Data+into+Intelligent+Action+%F0%9F%A7%A0;Specializing+in+Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Building+Predictive+ML+%26+Financial+Models+%F0%9F%93%88;M.Tech+Data+Science+Student+%F0%9F%8E%93;Open+for+Remote+AI%2FML+Internships+%F0%9F%9A%80">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=1d4ed8&center=true&vCenter=true&width=660&height=48&lines=Turning+Data+into+Intelligent+Action+%F0%9F%A7%A0;Specializing+in+Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Building+Predictive+ML+%26+Financial+Models+%F0%9F%93%88;M.Tech+Data+Science+Student+%F0%9F%8E%93;Open+for+Remote+AI%2FML+Internships+%F0%9F%9A%80">
+  </picture>
+</p>
+
+<br/>
+
 <!-- ══════════════════ CURRENTLY WORKING ON ══════════════════ -->
 
 ## 🚀 Currently Working On
