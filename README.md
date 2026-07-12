@@ -1,42 +1,16 @@
 <!-- ══════════════════════════════════════════════════════════════════
-     HEADER BANNER
+     APPLE / VERCEL ANIMATED GLASSMORPHISM HERO BANNER
 ══════════════════════════════════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e%2C50:1e3a8a%2C100:1e40af&height=230&section=header&text=Heli%20Hathi&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=M.Tech%20Data%20Science%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Computer%20Vision&descAlignY=61&descSize=20&descColor=bfdbfe">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe%2C50:bfdbfe%2C100:93c5fd&height=230&section=header&text=Heli%20Hathi&fontSize=64&fontColor=1e3a5f&animation=fadeIn&fontAlignY=40&desc=M.Tech%20Data%20Science%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Computer%20Vision&descAlignY=61&descSize=20&descColor=1d4ed8">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe%2C50:bfdbfe%2C100:93c5fd&height=230&section=header&text=Heli%20Hathi&fontSize=64&fontColor=1e3a5f&animation=fadeIn&fontAlignY=40&desc=M.Tech%20Data%20Science%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Computer%20Vision&descAlignY=61&descSize=20&descColor=1d4ed8">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img alt="Heli Hathi Animated Hero Banner" src="./assets/light.svg" width="100%">
 </picture>
 
-<!-- Standardized Rectangular Badge -->
+<!-- Profile Views Badge -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=helihathi&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views">
 </p>
-
-<!-- ══════════════════ TYPING SVG ══════════════════ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=58a6ff&center=true&vCenter=true&width=660&height=48&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;M.Tech+Data+Science+Student+%F0%9F%8E%93;Computer+Vision+%26+Deep+Learning+%F0%9F%94%AE;Open+to+AI+%26+ML+Internships+%F0%9F%9A%80;Let%27s+Build+Something+Amazing!+%E2%9C%A8">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=1d4ed8&center=true&vCenter=true&width=660&height=48&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;M.Tech+Data+Science+Student+%F0%9F%8E%93;Computer+Vision+%26+Deep+Learning+%F0%9F%94%AE;Open+to+AI+%26+ML+Internships+%F0%9F%9A%80;Let%27s+Build+Something+Amazing!+%E2%9C%A8">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=1d4ed8&center=true&vCenter=true&width=660&height=48&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;M.Tech+Data+Science+Student+%F0%9F%8E%93;Computer+Vision+%26+Deep+Learning+%F0%9F%94%AE;Open+to+AI+%26+ML+Internships+%F0%9F%9A%80;Let%27s+Build+Something+Amazing!+%E2%9C%A8">
-  </picture>
-</p>
-
-<br/>
-
-<!-- ══════════════════ ABOUT ME ══════════════════ -->
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Animation"/>
-
-### 👋 Hi there, I'm **Heli Hathi**
-
-🎓 Pursuing **M.Tech in Data Science**, passionate about solving real-world problems with AI  
-🤖 Deeply interested in **Computer Vision, Deep Learning, and Predictive Analytics**  
-☁️ Exploring **Cloud Platforms (AWS & GCP)** and scalable AI deployment  
-💹 Working on **Portfolio Optimization using Machine Learning**  
-💼 Actively seeking **Remote AI/ML & Data Science Internships**  
-⚡ I believe the best way to learn is by **building things that matter**
-
-<br clear="right"/>
 
 <br/>
 
@@ -58,14 +32,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cjupyter%2Caws%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cvscode&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cjupyter%2Caws%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cvscode&theme=light">
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cjupyter%2Caws%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cvscode&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Caws%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cvscode&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Caws%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cvscode&theme=light">
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=python%2Ccpp%2Cmysql%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Caws%2Cdocker%2Cmongodb%2Cfirebase%2Cgit%2Cvscode&theme=light">
   </picture>
 </p>
 
 <!-- Standardized Rectangular Badges for Libraries -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
@@ -77,15 +52,15 @@
 
 <br/>
 
-<!-- ══════════════════ GITHUB STATISTICS ══════════════════ -->
+<!-- ══════════════════ STATISTICS ══════════════════ -->
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1d4ed8&icon_color=1d4ed8&text_color=374151">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=helihathi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1d4ed8&icon_color=1d4ed8&text_color=374151">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=helihathi&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=helihathi&theme=github">
+    <img height="165" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=helihathi&theme=github">
   </picture>
   &nbsp;&nbsp;
   <picture>
@@ -95,31 +70,9 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&hide_border=true&bg_color=ffffff&title_color=1d4ed8&text_color=374151&hide=jupyter%20notebook&langs_count=8">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helihathi&layout=compact&hide_border=true&bg_color=ffffff&title_color=1d4ed8&text_color=374151&hide=jupyter%20notebook&langs_count=8">
-  </picture>
-</p>
-
 <br/>
 
-<!-- ══════════════════ TROPHIES ══════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=helihathi&theme=algolia&no-frame=true&margin-w=10&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=helihathi&theme=flat&no-frame=true&margin-w=10&column=6">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=helihathi&theme=flat&no-frame=true&margin-w=10&column=6">
-  </picture>
-</p>
-
-<br/>
-
-<!-- ══════════════════ CONTRIBUTION GRAPH ══════════════════ -->
+<!-- ══════════════════ CONTRIBUTION ACTIVITY ══════════════════ -->
 
 ## 📈 Contribution Activity
 
