@@ -146,7 +146,7 @@
     </g>
 
     <!-- Glowing Tech Stack Pills (With Hover Scale & Pulsing Glow) -->
-    <g transform="translate(40, 385)">
+    <g transform="translate(40, 425)">
       <text x="0" y="-15" class="text-sub" font-size="13" letter-spacing="1">TECHNICAL ARSENAL</text>
       
       <!-- Row 1 -->
@@ -185,14 +185,6 @@
       <g class="pill" transform="translate(380, 42)">
         <rect width="85" height="32" rx="16" class="pill-bg"/><text x="22" y="21" class="pill-text">NumPy</text>
       </g>
-    </g>
-
-    <!-- Social Status Indicator at Bottom Right -->
-    <g transform="translate(480, 500)">
-      <circle cx="10" cy="10" r="5" fill="#10B981" filter="url(#pill-glow)">
-        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="25" y="14" class="text-sub" font-size="13">Available for Hire</text>
     </g>
   </g>
 </svg>
