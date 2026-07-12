@@ -114,7 +114,7 @@
     <circle cx="30" cy="30" r="6" fill="#EF4444"/>
     <circle cx="50" cy="30" r="6" fill="#F59E0B"/>
     <circle cx="70" cy="30" r="6" fill="#10B981"/>
-    <text x="95" y="34" class="text-sub" font-size="13">helihathi — -zsh — 80x24</text>
+    <text x="95" y="34" class="text-sub" font-size="13">helihathi</text>
     <line x1="0" y1="55" x2="670" y2="55" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
 
     <!-- Greeting & Name -->
